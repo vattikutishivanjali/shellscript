@@ -1,0 +1,7 @@
+create a file 
+add a file using git add .
+git commit -m "message"
+git remote -v
+to push into repository
+git push -u origin main
+
